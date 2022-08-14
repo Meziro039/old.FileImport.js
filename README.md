@@ -23,7 +23,7 @@ FileImport.Load([
 ])
 ```
 <!-- head内に記述する。 -->
-# 動作環境
+# 動作確認
 - Brave(PC)
 - Chrome(PC)
 - Safari(iOS)
